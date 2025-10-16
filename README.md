@@ -42,8 +42,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+<img width="1920" height="1020" alt="Screenshot 2025-10-07 181130" src="https://github.com/user-attachments/assets/39aa9c6d-58fe-444d-84fa-2176bb41b490" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+<img width="1920" height="1020" alt="Screenshot 2025-10-07 181422" src="https://github.com/user-attachments/assets/bfd3f165-49da-461d-beb3-294e98e89a74" />
 
 **RESULTS**
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
